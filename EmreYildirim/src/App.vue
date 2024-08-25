@@ -32,10 +32,10 @@ body{
   padding: 0;
   padding-left: 6%;
   padding-right: 6%;
-  background-image: url(./assets/images/background.png);  
-  background-size: cover; /* Resmi kapsayıcı elemana sığacak şekilde ölçeklendirir ve taşan kısımları keser */
-  background-position: center; /* Resmi ortalar */
-  background-repeat: no-repeat; /* Resmin tekrar etmesini engeller */
+  background-image: url(./assets/images/background.jpg);  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 
