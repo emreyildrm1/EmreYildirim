@@ -114,11 +114,11 @@ $romotion-font-family: 'Audiowide', sans-serif;
 
   width: 80%;
   color: white;
+  margin-bottom: 50px;
 }
 
 .footer__box{
   display: flex;
-  margin-inline: 30px;
 }
 
 
@@ -136,6 +136,8 @@ $romotion-font-family: 'Audiowide', sans-serif;
   
   .firstPromotion {
     font-size: $small-font;
+    width: 100%;
+    text-align: center;
   }
   .footer {
     .footer-icon{
