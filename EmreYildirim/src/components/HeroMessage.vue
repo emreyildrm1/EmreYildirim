@@ -131,7 +131,7 @@ $romotion-font-family: 'Audiowide', sans-serif;
 
 
 
-/* Mobil cihazlar için */
+/* Mobil */
 @media (max-width: 600px) {
   
   .firstPromotion {
@@ -150,7 +150,7 @@ $romotion-font-family: 'Audiowide', sans-serif;
   }
 }
 
-/* Tabletler için */
+/* Table  */
 @media (min-width: 601px) and (max-width: 1024px) {
   
   .firstPromotion {
